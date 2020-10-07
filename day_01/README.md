@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 - Introduction
 
 Welcome to your first day of Elm. Today we will be going through the basics of installing the Elm compiler and setting up the rest of your tools.
 
