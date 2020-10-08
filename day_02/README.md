@@ -29,7 +29,7 @@ Functions are an excellent complement to values. A function allows us to take va
 ## Exercises
 
 1. Create a function to greet someone.
-1. Create a function that calculates at 10% tax on a purchase.
+1. Create a function that calculates a 10% tax on a purchase.
 1. Create a function that takes multiple words and prints out a [mad lib](https://en.wikipedia.org/wiki/Mad_Libs).
 
 [Solutions](./SOLUTIONS.md)
