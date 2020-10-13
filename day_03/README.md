@@ -28,10 +28,12 @@ You may also notice that both branches if the if express, the part after `then` 
 
 ### Tuples
 
-Tuples are means of grouping data
+Tuples are means of grouping together a small number of values. A basic example would be `( "Kyle", 36 )`. This can be quite useful if you wanted to return both a name and age from a function. You can even group together 3 values into a tuple like so `( value1, value2, value3 )`, however that's the most you can put into a tuple. It is not advised to use tuples for thing like coordinates though. If you were to see `( 5, 18 )` would you know which of those is the X coordinate and which is the Y? You might have a good guess but you don't know for certain.
 
 ## Exercies
 
-1. TODO
+1. Write a function that takes an age and returns a string saying whether or not the person can legaly vote.
+1. Write a function that takes a number and returns a string saying if the number is even or odd.
+1. Write a function that takes checks a password and returns a corresponding response.
 
 [Solutions](./SOLUTIONS.md)
