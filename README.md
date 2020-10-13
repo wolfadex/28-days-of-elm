@@ -7,8 +7,8 @@ A guide to help you learn the basics of Elm in 28 days. No Javasctipt, HTML, or 
 | Day # | Topic                                                                                                                                                  | Status      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | 1     | [Introduction](./day_01)                                                                                                                               | Done        |
-| 2     | [Values & Functions](./day_02)                                                                                                                         | In Progress |
-| 3     | [Conditionals & Tuples](./day_03)                                                                                                                      |
+| 2     | [Values & Functions](./day_02)                                                                                                                         | Done        |
+| 3     | [Conditionals & Tuples](./day_03)                                                                                                                      | In Progress |# Day 2 - Values & Functions
 | 4     | [Lists](./day_04)                                                                                                                                      |
 | 5     | [Records](./day_05)                                                                                                                                    |
 | 6     | [The Elm Architecture (TEA): Buttons](./day_06)                                                                                                        |
