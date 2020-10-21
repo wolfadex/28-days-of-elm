@@ -1,6 +1,6 @@
 ⚠️ This is a work in progress ⚠️
 
-# 28 Days of Elm
+# 28 Days of [Elm](https://elm-lang.org/)
 
 A guide to help you learn the basics of Elm in 28 days. No Javasctipt, HTML, or CSS knowledge is required though some basic knowledge of each will make the projects the end a little easier.
 
