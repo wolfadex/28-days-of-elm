@@ -9,9 +9,9 @@ A guide to help you learn the basics of Elm in 28 days. No Javasctipt, HTML, or 
 | 1     | [Introduction](./day_01)                                                                                                                               | Done        |
 | 2     | [Values & Functions](./day_02)                                                                                                                         | Done        |
 | 3     | [Conditionals & Tuples](./day_03)                                                                                                                      | Done        |
-| 4     | [Lists](./day_04)                                                                                                                                      | In Progress |
-| 5     | [Records](./day_05)                                                                                                                                    |
-| 6     | [The Elm Architecture (TEA): Buttons](./day_06)                                                                                                        |
+| 4     | [Lists](./day_04)                                                                                                                                      | Done        |
+| 5     | [Records](./day_05)                                                                                                                                    | Done        |
+| 6     | [The Elm Architecture (TEA): Buttons](./day_06)                                                                                                        | In Progress |
 | 7     | [TEA: Text Inputs](./day_07)                                                                                                                           |
 | 8     | [Types: Primitives](./day_08)                                                                                                                          |
 | 9     | [Types: Functions](./day_09)                                                                                                                           |
